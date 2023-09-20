@@ -1,10 +1,9 @@
 # Fetch-Movies-imdbAPI-Simple-Web
 Simple web - Search for movies with IMDb API key, Fetch JavaScript, and Bootstrap
-
-<br>
 <li>IMDb API key</li>
 <li>Fetch CDN Javascript + async await + error handling </li>
 <li>Bootstrap CDN Links</li>
+<br>
 
 ## With 3 files JavaScript =
 <li>fetch.js</li>
