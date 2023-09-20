@@ -7,8 +7,8 @@ Simple web - Search for movies with IMDb API key, Fetch JavaScript, and Bootstra
 
 ## With 3 files JavaScript =
 <li>fetch.js</li>
-<li>fetch-refactor.js (refactor)</li>
-<li>fetch-refactor-async-await-E-H.js (refactor + async await + error handling)</li>
+<li>fetch-refactor.js (refactoring)</li>
+<li>fetch-refactor-async-await-E-H.js (refactoring + async await + error handling)</li>
 <br>
 
 ## PC Version
