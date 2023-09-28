@@ -1,7 +1,7 @@
 # Fetch-Movies-omdbAPI-Simple-Web
 Simple web - Search for movies with OMDb API key, Fetch JavaScript, and Bootstrap
 <li>OMDb API key</li>
-<li>Fetch CDN Javascript + async await + error handling </li>
+<li>Fetch Javascript + async await + error handling </li>
 <li>Bootstrap CDN Links</li>
 <br>
 
